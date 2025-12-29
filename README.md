@@ -24,8 +24,8 @@ Modern web administration panel built with Vue3 + Element Plus for RustDesk API 
 
 ```shell
 # Clone the repository
-git clone <your-repository-url>
-cd rustdesk-api-web
+git clone https://github.com/RobertLesgros/rustdesk_interface_web.git
+cd rustdesk_interface_web
 
 # Install dependencies
 npm install
